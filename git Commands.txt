@@ -1,0 +1,18 @@
+git --version ==> to make sure git intsalled
+1) git init ==> To create local Repo 
+2) git add fileName ==> Add File From Working director to Staging Area
+3) git add . ==> Add All Files From Working director to Staging Area
+4) git commit -m "any Message" ==> add File From staging Area to Local repo
+5) git status ==> Keep Track on Changes
+6) git log ==> history for All Changes
+7) git reflog ==> short history
+8) git checkout IDCommit ==> to Move From Commit to anthor Commit
+9) git reset --soft IDCommit ==> Delete Soft 
+10) git reset --hard IDCommit ==> Delete Hard 
+
+
+11) git remote add origin "URL"
+12) git push origin master/main
+13) git pull origin master
+14) git clone "URL"
+
